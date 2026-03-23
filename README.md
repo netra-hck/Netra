@@ -18,11 +18,11 @@ A Network tool based root solution for Android
 **Root Permission Flow**
 
 <p align="center">
-  <img src="assets/screenshoots/ss1.jpeg" width="28%" />
+  <img src="assets/screenshots/ss1.jpeg" width="28%" />
   &nbsp;
-  <img src="assets/screenshoots/ss2.jpeg" width="28%" />
+  <img src="assets/screenshots/ss2.jpeg" width="28%" />
   &nbsp;
-  <img src="assets/screenshoots/ss3.jpeg" width="28%" />
+  <img src="assets/screenshots/ss3.jpeg" width="28%" />
 </p>
 <p align="center">
   <sub>No SU Permission &nbsp;·&nbsp; Root Access Required &nbsp;·&nbsp; SU Granted (KernelSU)</sub>
@@ -31,13 +31,13 @@ A Network tool based root solution for Android
 **Scanner & Protection**
 
 <p align="center">
-  <img src="assets/screenshoots/ss4.jpeg" width="21%" />
+  <img src="assets/screenshots/ss4.jpeg" width="21%" />
   &nbsp;
-  <img src="assets/screenshoots/ss5.jpeg" width="21%" />
+  <img src="assets/screenshots/ss5.jpeg" width="21%" />
   &nbsp;
-  <img src="assets/screenshoots/ss6.jpeg" width="21%" />
+  <img src="assets/screenshots/ss6.jpeg" width="21%" />
   &nbsp;
-  <img src="assets/screenshoots/ss7.jpeg" width="21%" />
+  <img src="assets/screenshots/ss7.jpeg" width="21%" />
 </p>
 <p align="center">
   <sub>Network Scan &nbsp;·&nbsp; IP Blocked &nbsp;·&nbsp; ARP Shield Active &nbsp;·&nbsp; Shield + Lock</sub>
