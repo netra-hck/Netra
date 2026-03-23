@@ -1,0 +1,215 @@
+                    NETRA PROPRIETARY LICENSE
+                         Version 1.0, 2026
+
+ Copyright (C) 2026 Netra. All Rights Reserved.
+ https://github.com/netra-hck/Netra
+
+ NOTICE: This software is proprietary and confidential.
+ Unauthorized copying, distribution, modification, reverse engineering,
+ or use of this software, in whole or in part, is strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                            PREAMBLE
+
+  Netra is a proprietary software product developed and owned exclusively
+by its Author. This software is NOT open source. No source code is made
+available to the public. All rights, title, and interest in and to the
+Software — including all intellectual property rights — are and shall
+remain the exclusive property of the Author.
+
+  This License governs the terms under which end users may access and
+use the compiled Netra application. By downloading, installing, or using
+the Software, you agree to be bound by the terms of this License. If you
+do not agree, do not use the Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "The Author"       — The original creator and sole owner of Netra,
+                       operating as "Netra" / "netra-hck".
+
+  "The Software"     — The Netra application, including all compiled
+                       binaries (APK), assets, UI, features, and any
+                       associated documentation or materials released
+                       by the Author.
+
+  "You" / "User"     — Any individual or entity that downloads,
+                       installs, or uses the Software.
+
+  "Service" / "SaaS" — Any subscription-based, on-demand, or hosted
+                       service provided by the Author through or in
+                       connection with the Software.
+
+  "Commercial Use"   — Any use intended for or resulting in monetary
+                       compensation, business advantage, or commercial
+                       gain.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Grant of Limited License.
+
+  Subject to full compliance with this License, the Author grants you
+a limited, non-exclusive, non-transferable, revocable license to:
+
+    a) Download and install the Software on your personal Android device.
+
+    b) Use the Software solely for its intended purpose as described
+    in the official documentation and README.
+
+    c) Access features of the Software as permitted by your current
+    subscription tier or access level (if applicable).
+
+  This is a license to USE the Software — not a transfer of ownership.
+  The Author retains all ownership and intellectual property rights.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  2. Restrictions — What You May NOT Do.
+
+  You are expressly prohibited from:
+
+    a) SOURCE CODE ACCESS
+       Attempting to access, obtain, decompile, disassemble, or
+       reconstruct the source code of the Software by any means,
+       including but not limited to reverse engineering, binary
+       analysis tools, or code injection.
+
+    b) MODIFICATION
+       Modifying, patching, altering, or creating derivative works
+       based on the Software or any of its components.
+
+    c) REDISTRIBUTION
+       Copying, uploading, mirroring, or distributing the Software
+       (in whole or in part) on any platform, website, repository,
+       app store, or channel not authorized by the Author.
+
+    d) COMMERCIAL EXPLOITATION
+       Selling, reselling, renting, leasing, sublicensing, or using
+       the Software for commercial gain without a separate commercial
+       agreement with the Author.
+
+    e) REBRANDING / CLONING
+       Repackaging or rebranding the Software under a different name,
+       or building a competing product using insights, features, or
+       designs substantially derived from the Software.
+
+    f) CIRCUMVENTION
+       Bypassing, disabling, or tampering with any license verification,
+       authentication, or access control mechanisms within the Software.
+
+    g) UNAUTHORIZED SHARING
+       Sharing access credentials, license keys, or subscription
+       benefits with unauthorized third parties.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  3. Intellectual Property.
+
+  The Software, including all its features, UI/UX design, logic,
+algorithms, branding, and documentation, constitutes the exclusive
+intellectual property of the Author.
+
+  The name "Netra", the Netra logo, and all related marks are the
+property of the Author and may not be used without prior written
+consent.
+
+  Nothing in this License grants you any rights to patents, trademarks,
+trade secrets, or other proprietary rights of the Author beyond the
+limited license to use the Software as described in Section 1.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  4. SaaS and Subscription Terms.
+
+  If the Software is offered as a Service (SaaS):
+
+    a) Access to premium features may require a valid subscription
+    or payment as determined by the Author.
+
+    b) The Author reserves the right to modify, suspend, or discontinue
+    any feature or tier of the Service at any time, with or without
+    notice.
+
+    c) Subscriptions are personal and non-transferable unless explicitly
+    stated otherwise by the Author.
+
+    d) The Author reserves the right to revoke access for any user
+    found to be in violation of this License.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  5. No Warranty.
+
+  THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. THE AUTHOR MAKES NO REPRESENTATIONS OR WARRANTIES
+REGARDING THE ACCURACY, RELIABILITY, AVAILABILITY, OR FITNESS OF THE
+SOFTWARE FOR ANY PARTICULAR PURPOSE.
+
+  THE USER ACKNOWLEDGES THAT THE SOFTWARE OPERATES WITH ELEVATED
+SYSTEM PRIVILEGES (ROOT ACCESS) AND ACCEPTS FULL RESPONSIBILITY FOR
+ANY CONSEQUENCES ARISING FROM ITS USE ON THEIR DEVICE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  6. Limitation of Liability.
+
+  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL
+NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO:
+
+    - Data loss or corruption
+    - Device instability or damage
+    - Network disruption or security incidents
+    - Loss of profits or business opportunity
+
+  THIS LIMITATION APPLIES EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  7. Termination.
+
+  This License is effective until terminated. The Author may terminate
+this License immediately and without notice if:
+
+    a) You violate any term of this License.
+    b) You engage in reverse engineering, redistribution, or misuse
+    of the Software.
+    c) You breach any applicable subscription or service agreement.
+
+  Upon termination, you must immediately cease all use of the Software
+and delete all copies in your possession.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  8. Updates to This License.
+
+  The Author reserves the right to update or revise this License at
+any time. Continued use of the Software after any such update
+constitutes your acceptance of the new terms.
+
+  Updates will be announced via:
+
+    Official Repository : https://github.com/netra-hck/Netra-App
+    Telegram Channel    : https://t.me/NetraOfficial
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  9. Contact & Commercial Licensing.
+
+  For commercial licensing, partnership, or permission requests,
+contact the Author through official channels:
+
+    Official Repository : https://github.com/netra-hck/Netra-App
+    Telegram Channel    : https://t.me/NetraOfficial
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                 END OF NETRA PROPRIETARY LICENSE
+
+          Copyright (C) 2026 Netra. All Rights Reserved.
